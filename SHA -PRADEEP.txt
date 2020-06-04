@@ -1,0 +1,8 @@
+			  apiKey: "AIzaSyA_LlIAomWwRU82xU2VNrryJrz_o2VthB4 ",
+			  authDomain: "final-mealpass.firebaseio.com",
+			  databaseURL: "https://final-mealpass.firebaseio.com/",
+			  projectId: "final-mealpass",
+			  storageBucket: "final-mealpass.appspot.com",
+			  messagingSenderId: "1016557463697",
+			  appId: "1:1016557463697:android:7957c5afb0d3beffb77730"
+			  
